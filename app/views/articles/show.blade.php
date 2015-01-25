@@ -1,0 +1,1 @@
+/Users/vincent/Sites/blog/app/views/Articles/show.blade.php
